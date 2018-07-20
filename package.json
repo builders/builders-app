@@ -7,8 +7,9 @@
   "author": "Stephen Bau <bauhouse@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "sanity start",
-    "test": "sanity check"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "keywords": [
     "sanity"
